@@ -1,8 +1,8 @@
 git init
+git remote add origin [url from github]
 git add [filename]
 git add --all
 git status
-git remote add origin [url from github]
 git commit
 git log
 git checkout [commit_id]
